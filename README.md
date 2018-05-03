@@ -4,6 +4,6 @@ This code uses hough transform to find the lanes of runway and further does thre
 
 # How to run the code
 
-Run python runway.py [path to image]
-example command: python runway.py 38.png
+Run python runway.py [path to image] <br/>
+example command: python runway.py 38.png <br/>
 where 38.png is path to file here in this repository
